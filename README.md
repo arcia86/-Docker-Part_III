@@ -22,12 +22,12 @@ sudo bash start.sh
 
 Open the browser url= localhost:56733
 
-![Imagen of localhost:56733](https://github.com/arcia86/-Docker-Part_III/tree/master/imagen/captu2.png)
+![Imagen of localhost:56733](/imagen/captu2.png)
 
 ```
 docker ps 
 ```
-![Imagen of localhost:56733/template](https://github.com/arcia86/-Docker-Part_III/tree/master/imagen/captu1.png)
+![Imagen of localhost:56733/template](/imagen/captu1.png)
 
 ### additional commands
 
